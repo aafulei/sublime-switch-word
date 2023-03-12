@@ -24,9 +24,9 @@ No default key bindings. Define your own.
 
 #### Recommended Key Bindings
 
-| Command                       | Windows / Linux                                                   | macOS                                                           |
-| -------                       | ---------------                                                   | -----                                                           |
-| `Expand Selection to Subword` | <kbd>Ctrl</kbd> + <kbd>K</kbd>,  <kbd>Ctrl</kbd> + <kbd>\\</kbd>  | <kbd>Cmd</kbd> + <kbd>K</kbd>,  <kbd>Ctrl</kbd> + <kbd>\\</kbd> |
+| Command                       | Windows / Linux                                                   | macOS                                                          |
+| -------                       | ---------------                                                   | -----                                                          |
+| `Expand Selection to Subword` | <kbd>ctrl</kbd> + <kbd>K</kbd>,  <kbd>ctrl</kbd> + <kbd>\\</kbd>  | <kbd>cmd</kbd> + <kbd>K</kbd>,  <kbd>cmd</kbd> + <kbd>\\</kbd> |
 
 ### 2. Command Palette
 
